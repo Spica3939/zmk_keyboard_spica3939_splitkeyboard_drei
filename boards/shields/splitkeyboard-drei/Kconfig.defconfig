@@ -1,0 +1,16 @@
+if SPLITKEYBOARD_DREI_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "SpritKeyboard Drei"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SPLITKEYBOARD_DREI_LEFT || SPLITKEYBOARD_DREI_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

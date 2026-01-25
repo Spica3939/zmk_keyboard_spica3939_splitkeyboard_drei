@@ -1,0 +1,12 @@
+file_format: "1"
+id: splitkeyboard_drei
+name: SplitKeyboard Drei
+type: shield
+url: https://github.com/Spica3939/zmk-keyboard-spica3939-splitkeyboard-drei/
+requires:
+  - [seeed_xiao]
+features:
+  - keys
+siblings:
+  - splitkeyboard-drei_left
+  - splitkeyboard-drei_right
