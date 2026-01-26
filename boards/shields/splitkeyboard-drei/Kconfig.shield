@@ -1,5 +1,5 @@
-config SPLITKEYBOARD_DREI_LEFT
+config SHIELD_SPLITKEYBOARD_DREI_LEFT
     def_bool $(shields_list_contains,splitkeyboard_drei_left)
 
-config SPLITKEYBOARD_DREI_RIGHT
+config SHIELD_SPLITKEYBOARD_DREI_RIGHT
     def_bool $(shields_list_contains,splitkeyboard_drei_right)
