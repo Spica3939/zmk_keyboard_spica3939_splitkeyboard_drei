@@ -4,7 +4,7 @@ name: SplitKeyboard Drei
 type: shield
 url: https://github.com/Spica3939/zmk-keyboard-spica3939-splitkeyboard-drei/
 requires:
-  - [seeed_xiao]
+  - [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
