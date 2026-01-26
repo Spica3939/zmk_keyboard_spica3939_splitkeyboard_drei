@@ -20,9 +20,9 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: splitkeyboard-drei_left
+    shield: splitkeyboard_drei_left
 
   - board: seeeduino_xiao_ble
-    shield: splitkeyboard-drei_right
+    shield: splitkeyboard_drei_right
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
