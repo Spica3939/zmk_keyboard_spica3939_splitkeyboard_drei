@@ -1,4 +1,4 @@
-#include "splitkeyboard-drei.dtsi"
+#include "splitkeyboard_drei.dtsi"
 
 &default_transform {
         col-offset = <6>;

@@ -8,5 +8,5 @@ requires:
 features:
   - keys
 siblings:
-  - splitkeyboard-drei_left
-  - splitkeyboard-drei_right
+  - splitkeyboard_drei_left
+  - splitkeyboard_drei_right
