@@ -1,3 +1,4 @@
+name: zmk_ketboard_splitkeyboard_drei
 build:
   settings:
     board_root: .
